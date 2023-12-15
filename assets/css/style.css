@@ -461,6 +461,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
+  color: #444444;
 }
 
 .section-title h2::after {
@@ -485,7 +486,7 @@ section {
 
 .section-bg:before {
   content: "";
-  background: #1b1b1b;
+  /* background: #1b1b1b; */
   position: absolute;
   bottom: 60px;
   top: 60px;
